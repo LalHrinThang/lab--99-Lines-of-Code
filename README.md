@@ -50,15 +50,15 @@
 
 # Example Output
 
-JOHN:
-99 lines of code in the file, 99 lines of code; John strikes one out, clears it all out, 98 lines of code in the file
-98 lines of code in the file, 98 lines of code; John strikes one out, clears it all out, 97 lines of code in the file
-.......
-.......
-1 line of code in the file, 1 line of code; John strikes one out, clears it all out, no more lines of code in the file
-JANE:
-99 lines of code in the file, 99 lines of code; Jane strikes one out, clears it all out, 98 lines of code in the file
-98 lines of code in the file, 98 lines of code; Jane strikes one out, clears it all out, 97 lines of code in the file
-.......
-.......
-1 line of code in the file, 1 line of code; Jane strikes one out, clears it all out, no more lines of code in the file
+    JOHN:
+    99 lines of code in the file, 99 lines of code; John strikes one out, clears it all out, 98 lines of code in the file
+    98 lines of code in the file, 98 lines of code; John strikes one out, clears it all out, 97 lines of code in the file
+    .......
+    .......
+    1 line of code in the file, 1 line of code; John strikes one out, clears it all out, no more lines of code in the file
+    JANE:
+    99 lines of code in the file, 99 lines of code; Jane strikes one out, clears it all out, 98 lines of code in the file
+    98 lines of code in the file, 98 lines of code; Jane strikes one out, clears it all out, 97 lines of code in the file
+    .......
+    .......
+    1 line of code in the file, 1 line of code; Jane strikes one out, clears it all out, no more lines of code in the file
